@@ -1,4 +1,4 @@
-import SignInForm from '../../../../personal-project/app/components/SignInForm'
+import SignInForm from '../components/SignInForm'
 
 export default function SignIn() {
   return (
