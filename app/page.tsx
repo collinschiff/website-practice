@@ -17,7 +17,7 @@ export default function Home() {
   return (
     <div className="flex flex-col items-center justify-center min-h-screen py-2">
       {username && <h2 className="text-2xl mb-4">Hi, {username}</h2>}
-      <h1 className="text-4xl font-bold mb-8">Welcome to My App</h1>
+      <h1 className="text-4xl font-bold mb-8">Who Can I Find For You?</h1>
       <SearchBar />
     </div>
   )
