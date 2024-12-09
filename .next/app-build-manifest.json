@@ -1,41 +1,25 @@
 {
   "pages": {
-    "/_not-found/page": [
-      "static/chunks/webpack-d6abbf1fcfdef890.js",
-      "static/chunks/4bd1b696-d7266ff7e407fd8a.js",
-      "static/chunks/517-018b85672d78c649.js",
-      "static/chunks/main-app-f27fd1eafb42881b.js",
-      "static/chunks/app/_not-found/page-bf1fc369eb77e8f8.js"
-    ],
     "/layout": [
-      "static/chunks/webpack-d6abbf1fcfdef890.js",
-      "static/chunks/4bd1b696-d7266ff7e407fd8a.js",
-      "static/chunks/517-018b85672d78c649.js",
-      "static/chunks/main-app-f27fd1eafb42881b.js",
-      "static/css/d7e632551d8bb49e.css",
-      "static/chunks/101-7137b982b78a8993.js",
-      "static/chunks/app/layout-96d858f26a2cc9df.js"
-    ],
-    "/signin/page": [
-      "static/chunks/webpack-d6abbf1fcfdef890.js",
-      "static/chunks/4bd1b696-d7266ff7e407fd8a.js",
-      "static/chunks/517-018b85672d78c649.js",
-      "static/chunks/main-app-f27fd1eafb42881b.js",
-      "static/chunks/app/signin/page-926586fded653e8e.js"
-    ],
-    "/signup/page": [
-      "static/chunks/webpack-d6abbf1fcfdef890.js",
-      "static/chunks/4bd1b696-d7266ff7e407fd8a.js",
-      "static/chunks/517-018b85672d78c649.js",
-      "static/chunks/main-app-f27fd1eafb42881b.js",
-      "static/chunks/app/signup/page-3c9277f6536745f6.js"
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
     ],
     "/page": [
-      "static/chunks/webpack-d6abbf1fcfdef890.js",
-      "static/chunks/4bd1b696-d7266ff7e407fd8a.js",
-      "static/chunks/517-018b85672d78c649.js",
-      "static/chunks/main-app-f27fd1eafb42881b.js",
-      "static/chunks/app/page-206ad8eddf0eaac1.js"
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/page.js"
+    ],
+    "/signin/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/signin/page.js"
+    ],
+    "/signup/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/signup/page.js"
     ]
   }
 }
